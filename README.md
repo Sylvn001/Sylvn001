@@ -10,7 +10,7 @@
   Hi! I'm Junior (Sylvn001), a student. I like to plan and make lives on twitch.tv, I have a real passion about web development and I always try to learn new different       technologies.  <br> 
   I really love everything I do. I like to teach and learn. I have a kitten named Sirius and I also like to play guitar and play league of legends <br>
   You can count on me! Feel free in my profile and if you have any questions or anything related, feel free to contact me
-          <img src="https://gfycat.com/electricgrizzledcleanerwrasse">via Gfycat</img></p>
+          </p>
 </p>
   
 <h2> Detailed information </h2> <hr>
