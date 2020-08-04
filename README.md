@@ -4,3 +4,22 @@
 **Sylvn001/Sylvn001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 -🔭 I’m currently working on: Crud - PHP(PDO)
+<h2> About Me </h2>
+<hr> 
+<p>
+  Hi! I'm Junior (Sylvn001), a student. I like to plan and make lives on twitch.tv, I have a real passion about web development and I always try to learn new different       technologies.  <br> 
+  I really love everything I do. I like to teach and learn. I have a kitten named Sirius and I also like to play guitar and play league of legends <br>
+  You can count on me! Feel free in my profile and if you have any questions or anything related, feel free to contact me
+  <div style='position:relative; padding-bottom:calc(100.00% + 44px)'><iframe src='https://gfycat.com/ifr/ElectricGrizzledCleanerwrasse' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/electricgrizzledcleanerwrasse">via Gfycat</a></p>
+</p>
+
+<h2> Detailed information </h2> <hr>
+<ul> 
+  <li> <strong>Name: </strong> Junior Barros </li> 
+  <li> <strong>Age: </strong> 18Y </li>
+  <li> <strong>Living In: </strong> Presidente Prudente - São Paulo, Brazil </li>
+   <li> <strong>Stack: </strong> Python - JS - PHP - Laravel - Bootstrap 4 - SQL (Postgre, MySQL) -  </li>
+   <li> <strong>University: </strong> UNOESTE - FIPP (information system) </li> 
+ </ul>
+
+
