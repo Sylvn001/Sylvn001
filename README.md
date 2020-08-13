@@ -18,7 +18,7 @@
   <li> <strong>Name: </strong> Junior Barros </li> 
   <li> <strong>Age: </strong> 18Y </li>
   <li> <strong>Living In: </strong> Presidente Prudente - São Paulo, Brazil </li>
-   <li> <strong>Stack: </strong> Python - JS - PHP - Laravel - Bootstrap 4 - SQL (Postgre, MySQL) -  </li>
+   <li> <strong>Stack: </strong> Python - JS (JQuery, ES6, VUE) - PHP(Laravel, PDO, PHPMailer) - HTML, CSS (Bootstrap 4, Metro 4, SASS, Bulma, Materialize) - SQL (Postgre, MySQL)  </li>
    <li> <strong>University: </strong> UNOESTE - FIPP (information system) </li> 
  </ul>
 
