@@ -3,7 +3,7 @@
 <!--
 **Sylvn001/Sylvn001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
--🔭 I’m currently Studying: Mobile app development
+-🔭 I’m currently Studying: Ruby & Ruby on Rails
 <h2> About Me </h2>
 <hr> 
 <p>
@@ -16,7 +16,7 @@
 <h2> Detailed information </h2> <hr>
 <ul> 
   <li> <strong>Name: </strong> Junior Barros </li> 
-  <li> <strong>Age: </strong> 18Y </li>
+  <li> <strong>Age: </strong> 19Y </li>
   <li> <strong>Living In: </strong> Presidente Prudente - São Paulo, Brazil </li>
    <li> <strong>Stack: </strong> Python - JS (JQuery, ES6, VUE) - PHP(Laravel, PDO, PHPMailer) - HTML, CSS (Bootstrap 4, Metro 4, SASS, Bulma, Materialize, TailWind) - SQL (Postgre, MySQL, Oracle)  </li>
    <li> <strong>University: </strong> UNOESTE - FIPP (information system) </li> 
