@@ -26,7 +26,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sylvn001&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvn001&layout=compact&langs_count=16&theme=vue-dark"/>
 </div>
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block; padding: 2px"><br>
   <img align="center" alt="sylvn001-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="sylvn001-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
@@ -42,7 +43,6 @@
   <img align="center" alt="sylvn001-Php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="sylvn001-Php-laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
 
-
   <img align="center" alt="sylvn001-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="sylvn001-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="sylvn001-Java-spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
@@ -53,12 +53,9 @@
   <img align="center" alt="sylvn001-tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="sylvn001-sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
 
-
   <img align="center" alt="sylvn001-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="sylvn001-oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="sylvn001-postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-
-
 
   <img align="right" alt="sylvn001-yoda" src="https://64.media.tumblr.com/bb08dc6547da56fba032174060c17f1c/64b85f8f37398df1-1c/s540x810/44aab92b37cc2e916058cae4115757545fa853c7.gifv">
 </div>
