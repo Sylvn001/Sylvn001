@@ -7,7 +7,7 @@
 <h2> About Me </h2>
 <hr>
 <p>
-  Hi! I'm Junior (Sylvn001), a student. I like to plan and make lives on twitch.tv, I have a real passion about web development and I always try to learn new different technologies.  <br>
+  Hi! I'm Junior (Sylvn001), a student. I like to plan and make lives on twitch.tv, I love web developmentand and always I try to learn new different technologies.  <br>
   I really love everything I do. I like to teach and learn. I have a kitten named Sirius and I also like to play guitar and play league of legends <br>
   You can count on me! Feel free in my profile and if you have any questions or anything related, feel free to contact me
 </p>
