@@ -15,7 +15,7 @@
 <h2> Detailed information </h2> <hr>
 <ul>
   <li> <strong>Name: </strong> Junior Barros </li>
-  <li> <strong>Age: </strong> 19Y </li>
+  <li> <strong>Age: </strong> 20Y </li>
   <li> <strong>University: </strong> UNOESTE - FIPP (information system) </li>
   <li> <strong>Living In: </strong> Presidente Prudente - São Paulo, Brazil </li>
  </ul>
