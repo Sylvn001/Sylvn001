@@ -3,22 +3,19 @@
 <!--
 **Sylvn001/Sylvn001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
--🔭 I’m currently Studying: Ruby & Ruby on Rails
-<h2> About Me </h2>
-<hr>
-<p>
-  Hi! I'm Junior (Sylvn001), a student. I like to plan and make lives on twitch.tv, I love web developmentand and always I try to learn new different technologies.  <br>
-  I really love everything I do. I like to teach and learn. I have a kitten named Sirius and I also like to play guitar and play league of legends <br>
-  You can count on me! Feel free in my profile and if you have any questions or anything related, feel free to contact me
-</p>
+- 🔭 I’m currently Studying: Nest.JS 🐺
 
-<h2> Detailed information </h2> <hr>
-<ul>
-  <li> <strong>Name: </strong> Junior Barros </li>
-  <li> <strong>Age: </strong> 20Y </li>
-  <li> <strong>University: </strong> UNOESTE - FIPP (information system) </li>
-  <li> <strong>Living In: </strong> Presidente Prudente - São Paulo, Brazil </li>
- </ul>
+## 📓 About Me
+
+> Hi! I'm Junior (Sylvn001), a student. I like to plan and make lives on twitch.tv, I love web developmentand and always I try to learn new different technologies, Actualy i want to learn Go Lang, Clojure and Elixir, study new languagens and technologies is my hobbie.
+> Feel free in my profile and if you have any questions or anything related, feel free to contact me
+
+## :notebook_with_decorative_cover: Detailed information
+
+- Name: Junior Barros
+- Age: 20Y
+- University: UNOESTE - FIPP (information system)
+- Living In: Presidente Prudente - São Paulo, Brazil
 
 <div>
   <a href="https://github.com/Sylvn001">
@@ -59,13 +56,9 @@
   <img align="right" alt="sylvn001-yoda" src="https://64.media.tumblr.com/bb08dc6547da56fba032174060c17f1c/64b85f8f37398df1-1c/s540x810/44aab92b37cc2e916058cae4115757545fa853c7.gifv">
 </div>
 
-  ##
+## Contact
 
-<div>
-  <h3>Contact</h3>
-  <hr>
-  <a href="https://instagram.com/sylvn001" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/sylvn001" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:juniorbaarros001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sylvn001" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<a href="https://instagram.com/sylvn001" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/sylvn001" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:juniorbaarros001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/sylvn001" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
