@@ -23,7 +23,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvn001&layout=compact&langs_count=16&theme=vue-dark"/>
 </div>
   
-![snake gif](https://github.com/sylvn001/sylvn001/blob/output/github-contribution-grid-snake.gif)
+### Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/Sylvn001/Sylvn001/blob/output/github-contribution-grid-snake.gif)
 
 ###
   
