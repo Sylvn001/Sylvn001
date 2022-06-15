@@ -55,6 +55,10 @@
 
   <img align="right" alt="sylvn001-yoda" src="https://64.media.tumblr.com/bb08dc6547da56fba032174060c17f1c/64b85f8f37398df1-1c/s540x810/44aab92b37cc2e916058cae4115757545fa853c7.gifv">
 </div>
+  
+<img href="https://github.com/sylvn001/sylvn001/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## Contact
 
