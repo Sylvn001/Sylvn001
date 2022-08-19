@@ -13,7 +13,7 @@
 ## :notebook_with_decorative_cover: Detailed information
 
 - Name: Junior Barros
-- Age: 20Y
+- Age: 21 Years
 - University: UNOESTE - University of Western São Paulo - FIPP (IS - Information System)
 - Living In: Presidente Prudente - São Paulo, Brazil
 
