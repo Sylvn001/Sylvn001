@@ -7,7 +7,7 @@
 
 ## 📓 About Me
 
-> Hi! I'm Junior (Sylvn001), a Full Stack Developer. I like to plan and make lives on twitch.tv, I love web developmentand and always I try to learn new different technologies, Actualy i work with javascript (Node.JS, Typescript, Nestjs, React) and i will pretend to learn Go Lang, Clojure and Elixir, for study purpose, learn new languagens and technologies is one of my favorite hobbies.
+> Hi! I'm Junior (Sylvn001), a Full Stack Developer. I love web developmentand and always I try to learn new different technologies, Actualy i work with javascript (Node.JS, Typescript, Nestjs, React) and i will pretend to learn Go Lang, Clojure and Elixir, for study purpose, learn new languagens and technologies is one of my favorite hobbies.
 
 ## :notebook_with_decorative_cover: Detailed information
 
