@@ -3,7 +3,7 @@
 <!--
 **Sylvn001/Sylvn001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently Studying: Nest.JS (Node), Typescript & MongoDB 🐺 and Java 17 & Spring Boot
+- 🔭 I’m currently Studying: Nest.JS (Node), Typescript & MongoDB 🐺 and Java 17 & Spring Boot and microservices with apache kafka 
 
 ## 📓 About Me
 
