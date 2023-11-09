@@ -64,9 +64,11 @@
 ###
 
   <img align="right" alt="sylvn001-yoda" src="https://64.media.tumblr.com/bb08dc6547da56fba032174060c17f1c/64b85f8f37398df1-1c/s540x810/44aab92b37cc2e916058cae4115757545fa853c7.gifv">
+  
 </div>
 
 ## Contacts
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sylvn001/" target="_blank">
@@ -81,4 +83,6 @@
   <a href="mailto:juniorbaarros001@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
   </a>
+
+  <a href="https://app.bounties4.com/@/sylvn001" target="_blank"><img title="bounties4.com/@/sylvn001" alt="bounties4.com/@/sylvn001" src="https://storage.googleapis.com/profile_avatar/production/106421992565720792248/1699554645869_badge.png" width="400" height="400" /></a>
 </div>
