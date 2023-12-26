@@ -3,17 +3,17 @@
 <!--
 **Sylvn001/Sylvn001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently Studying: Nest.JS (Node), Typescript & MongoDB 🐺 and Java 17 & Spring Boot and microservices with apache kafka 
+- 🔭 I’m currently Studying: Advanced node.js and javascript  && clean architeture 
 
 ## 📓 About Me
 
-> Hi! I'm Junior (Sylvn001), a Full Stack Developer. I love web developmentand and always I try to learn new different technologies, Actualy i work with javascript (Node.JS, Typescript, Nestjs, React) and i will pretend to learn Go Lang, Clojure and Elixir, for study purpose, learn new languagens and technologies is one of my favorite hobbies.
+> Hi! I'm Junior (Sylvn001), a Back End Developer. I create a lot of projects with nodejs, typescript, PHP, java, ruby on rails, and more...
 
 ## :notebook_with_decorative_cover: Detailed information
 
 - Name: Junior Barros
-- Age: 21 Years
-- University: UNOESTE - University of Western São Paulo - FIPP (IS - Information System)
+- Age: 22 Years
+- University: UNOESTE - University of Western São Paulo - FIPP (IS - Information System) - Completed in 2023
 - Living In: Presidente Prudente - São Paulo, Brazil
 
 <div>
@@ -22,11 +22,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvn001&layout=compact&langs_count=16&theme=vue-dark"/>
 </div>
   
-### Watch my contribution graph get eaten by the snake! 🐍
-![snake gif](https://github.com/Sylvn001/Sylvn001/blob/output/github-contribution-grid-snake.gif)
+<!-- ### Watch my contribution graph get eaten by the snake! 🐍
+//![snake gif](https://github.com/Sylvn001/Sylvn001/blob/output/github-contribution-grid-snake.gif)
 
 ###
-  
+-->
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
