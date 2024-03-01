@@ -40,6 +40,6 @@
   <a href="https://www.linkedin.com/in/sylvn001" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  <img align="right" alt="sylvn001-yoda" width="600" src="https://64.media.tumblr.com/bb08dc6547da56fba032174060c17f1c/64b85f8f37398df1-1c/s540x810/44aab92b37cc2e916058cae4115757545fa853c7.gifv">
+  <img align="right" alt="sylvn001-yoda" src="https://64.media.tumblr.com/bb08dc6547da56fba032174060c17f1c/64b85f8f37398df1-1c/s540x810/44aab92b37cc2e916058cae4115757545fa853c7.gifv">
   <img align="left" alt="sylvn001-yoda" src="https://media.giphy.com/media/sPN6dcdruDgdi/giphy.gif?cid=ecf05e47rxxacpabbgmwu8q3w4p7nv74iupgpdp4matmo5ly&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
