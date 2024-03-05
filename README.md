@@ -3,11 +3,11 @@
 <!--
 **Sylvn001/Sylvn001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently Studying: Advanced node.js and javascript  && clean architeture 
+- 🔭 I’m currently Studying: Advanced node.js and javascript  && clean architecture  && PHP 8
 
 ## 📓 About Me
 
-> Hi! I'm Junior (Sylvn001), a Back End Developer. I create a lot of projects with nodejs, typescript, PHP, java, ruby on rails, and more...
+> Hi! I'm Junior Barros (Sylvn001), a Back End Developer. I create many projects with nodejs, typescript, PHP, java, ruby on rails, and more...
 
 ## :notebook_with_decorative_cover: Detailed information
 
