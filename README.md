@@ -14,7 +14,7 @@
 - Name: Junior Barros
 - Age: 22 Years
 - University: UNOESTE - University of Western São Paulo - FIPP (IS - Information System) - Completed in 2023
-- Post-Graduate - Anhguera - studying - 2024 ~ 2025 
+- Post-Graduate - Anhaguera Educacional - studying - 2024 ~ 2025 
 - Living In: Presidente Prudente - São Paulo, Brazil
 
 <div>
