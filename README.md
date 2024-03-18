@@ -7,14 +7,14 @@
 
 ## 📓 About Me
 
-> Hi! I'm Junior Barros (Sylvn001), a Back End Developer. I create many projects with nodejs, typescript, PHP, java, ruby on rails, and more...
+> Hi! I'm Junior Barros (Sylvn001), a Back End Developer. I create many projects with nodejs, typescript, PHP, java, ruby on rails, and more... Actualy i'm post gratuating cloud computing, aws, azure, gcp
 
 ## :notebook_with_decorative_cover: Detailed information
 
 - Name: Junior Barros
 - Age: 22 Years
 - University: UNOESTE - University of Western São Paulo - FIPP (IS - Information System) - Completed in 2023
-- Post-Graduate - Anhaguera Educacional - studying - 2024 ~ 2025 
+- Post-Graduate - Anhaguera Educacional - Studying - Cloud Computing - 2024 ~ 2025 
 - Living In: Presidente Prudente - São Paulo, Brazil
 
 <div>
