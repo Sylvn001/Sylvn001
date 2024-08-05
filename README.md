@@ -16,6 +16,7 @@
 - University: UNOESTE - University of Western São Paulo - FIPP (IS - Information System) - Completed in 2023
 - Post-Graduate - Anhaguera Educacional - Studying - Cloud Computing - 2024 ~ 2025 
 - Living In: Presidente Prudente - São Paulo, Brazil
+- Persona Enthusiastic - It's not a game - I'm not a robot AI challenging you
 
 <div>
   <a href="https://github.com/Sylvn001">
