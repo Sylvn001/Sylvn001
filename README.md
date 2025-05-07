@@ -3,19 +3,20 @@
 <!--
 **Sylvn001/Sylvn001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently Studying: Advanced node.js and javascript  && clean architecture  && PHP 8
+- 🔭 I’m currently Working with:  PHP(PHP 8.2, 8.1, 7.4, 5.6), Threads, Laravel  && clean architecture  && Mysql, && Python && AWS lambda and ecosystem.  
 
 ## 📓 About Me
 
-> Hi! I'm Junior Barros (Sylvn001), a Back End Developer. I create many projects with nodejs, typescript, PHP, java, ruby on rails, and more... Actualy i'm post gratuating cloud computing, aws, azure, gcp
-
+> Hi! I'm Junior Barros (Sylvn001), a Back-End Developer.
+I build projects using Node.js, TypeScript, PHP, Java, and Ruby on Rails. Currently, I work mainly with PHP and focus on performance optimization, code refactoring, and stress testing. I'm passionate about writing clean, efficient, and scalable code.
 ## :notebook_with_decorative_cover: Detailed information
 
 - Name: Junior Barros
-- Age: 22 Years
-- University: UNOESTE - University of Western São Paulo - FIPP (IS - Information System) - Completed in 2023
-- Post-Graduate - Anhaguera Educacional - Studying - Cloud Computing - 2024 ~ 2025 
+- Age: 24 Years
 - Living In: Presidente Prudente - São Paulo, Brazil
+- University: UNOESTE - University of Western São Paulo - FIPP (IS - Information System) - Completed in 2023
+- Postgraduate in Cloud Computing, Anhanguera Educacional – currently studying, completed in 2025
+- Postgraduate in Software Engineering, Anhanguera Educacional – currently studying, completed in 2025
 - Persona Enthusiastic - It's not a game - I'm not a robot AI challenging you
 
 <div>
