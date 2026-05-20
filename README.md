@@ -12,18 +12,11 @@ I build projects using Node.js, TypeScript, PHP, Java, and Ruby on Rails. Curren
 ## :notebook_with_decorative_cover: Detailed information
 
 - Name: Junior Barros
-- Age: 24 Years
+- Age: 25 Years
 - Living In: Presidente Prudente - São Paulo, Brazil
 - University: UNOESTE - University of Western São Paulo - FIPP (IS - Information System) - Completed in 2023
 - Postgraduate in Cloud Computing, Anhanguera Educacional – currently studying, completed in 2025
 - Postgraduate in Software Engineering, Anhanguera Educacional – currently studying, completed in 2025
-- Persona Enthusiastic - It's not a game - I'm not a robot AI challenging you
-
-<div>
-  <a href="https://github.com/Sylvn001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sylvn001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvn001&layout=compact&langs_count=16&theme=dracula"/>
-</div>
     
 <br>
 
@@ -37,7 +30,6 @@ I build projects using Node.js, TypeScript, PHP, Java, and Ruby on Rails. Curren
 
 ## Contact
 <div> 
-  <a href="https://www.twitch.tv/sylvn001" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:juniorbaarros001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sylvn001" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
